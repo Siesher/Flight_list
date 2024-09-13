@@ -1,0 +1,14 @@
+FLY 104
+SEAT 104 Ivanov Ivan
+SEAT 104 Egorov Egor
+SEAT 104 Sukhatskii Maksim
+SEAT 104 Abramov Anton
+SEAT 104 Sechenov Mark
+FLY 678
+SEAT 678 Egorov Pasha
+SEAT 678 Antonov Mark
+SEAT 678 Sukhatskii Nastay
+PRINT 104
+CANCEL 104 Egorov Egor
+PRINT 104
+PRINT 678
